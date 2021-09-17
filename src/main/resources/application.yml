@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   application:
-    name: spring-config-in-yml
+    name: spring-greeting-service-with-config-in-yml
 management:
   endpoints:
     web:

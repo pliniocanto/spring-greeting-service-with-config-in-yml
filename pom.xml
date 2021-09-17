@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.pmac</groupId>
-	<artifactId>spring-config-in-yml</artifactId>
+	<artifactId>spring-greeting-service-with-config-in-yml</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-config-in-yml</name>
+	<name>spring-greeting-service-with-config-in-yml</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>16</java.version>
